@@ -15,3 +15,7 @@
 /build-*/tools/*/x64/Release
 /build-*/x64/Debug
 /build-*/x64/Release
+
+build-VS2022/.vs/
+
+build-VS2022/libzip-static/
